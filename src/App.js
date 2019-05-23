@@ -8,7 +8,7 @@ class App extends Component {
 
   state = {
     level: 0,
-    style: normal
+    style: hard
   };
   points = 0;
 

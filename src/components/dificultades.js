@@ -46,39 +46,39 @@ const normal = [
 const hard = [
   {
     balls: getBalls(1),
-    moveDuration: 900, size: 120, changeInterval: 450, dodgeProbability: 30, color: "#FFFF00"
+    moveDuration: 900, size: 120, changeInterval: 450, dodgeProbability: 30, color: "#ff5c30"
   },
   {
     balls: getBalls(1),
-    moveDuration: 900, size: 100, changeInterval: 400, dodgeProbability: 50, color: "#FFA420"
+    moveDuration: 900, size: 100, changeInterval: 400, dodgeProbability: 50, color: "#d16332"
   },
   {
     balls: getBalls(2),
-    moveDuration: 800, size: 100, changeInterval: 350, dodgeProbability: 40, color: "#FF7514"
+    moveDuration: 800, size: 100, changeInterval: 350, dodgeProbability: 40, color: "#f12b23"
   },
   {
     balls: getBalls(2),
-    moveDuration: 700, size: 90, changeInterval: 300, dodgeProbability: 55, color: "#FF2301"
+    moveDuration: 700, size: 90, changeInterval: 300, dodgeProbability: 55, color: "#c82201"
   },
   {
     balls: getBalls(2),
-    moveDuration: 800, size: 60, changeInterval: 400, dodgeProbability: 40, color: "#FE0000"
+    moveDuration: 800, size: 60, changeInterval: 400, dodgeProbability: 40, color: "#b00000"
   },
   {
     balls: getBalls(1),
-    moveDuration: 700, size: 110, changeInterval: 250, dodgeProbability: 85, color: "#E72512"
+    moveDuration: 700, size: 110, changeInterval: 250, dodgeProbability: 85, color: "#72140a"
   },
   {
     balls: getBalls(1),
-    moveDuration: 500, size: 100, changeInterval: 200, dodgeProbability: 85, color: "#bd2512"
+    moveDuration: 500, size: 100, changeInterval: 200, dodgeProbability: 85, color: "#621309"
   },
   {
     balls: getBalls(1),
-    moveDuration: 500, size: 50, changeInterval: 250, dodgeProbability: 100, color: "#892010"
+    moveDuration: 500, size: 50, changeInterval: 250, dodgeProbability: 100, color: "#621309"
   },
   {
     balls: getBalls(10),
-    moveDuration: 700, size: 60, changeInterval: 400, dodgeProbability: 100, color: "#892010"
+    moveDuration: 700, size: 60, changeInterval: 400, dodgeProbability: 100, color: "#621309"
   }
 ];
 
