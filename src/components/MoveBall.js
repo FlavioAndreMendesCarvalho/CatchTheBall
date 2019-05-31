@@ -78,7 +78,7 @@ class MoveBall extends Component {
         x={x}
         y={y}
         moveDuration={level.moveDuration}
-        onClick={this.atrapado}
+        onMouseDown={this.atrapado}
         onMouseEnter={this.intentoDeEsquivar}
         pose={toggle ? 'a' : 'b'}
         className="position-absolute rounded-circle shadow-lg"
